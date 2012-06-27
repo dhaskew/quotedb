@@ -1,0 +1,5 @@
+--- quotedb.rb
+
+This script will get a motivational quote for use with geektool (http://projects.tynsoe.org/en/geektool/)
+
+Note: This has been tested with Ruby 1.9.2 and OSX Lion
